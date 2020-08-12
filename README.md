@@ -30,6 +30,8 @@ The formulas I used were
 ```
 I "asks my dataset questions" through multiple pivot tables. 
 
+___
+
 I had a BLAST looking through this data. Here are some highlights. 
 
 
@@ -42,6 +44,8 @@ I had a BLAST looking through this data. Here are some highlights.
 | Friday Night Lights | Tim Riggins     |    4.9 |
 | Prison Break | Lincoln Burrow    |    5 |
 
+___
+
 #### Most Feminine 
 
 | Fictional Work | Character   | Average Rating  |
@@ -51,6 +55,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Friday Night Lights| Lyla Garrity     |   95.6 |
 | HUnger Games | Effie Trinket  |    95.4 |
 
+___
 #### Most Extroverted 
 
 | Fictional Work | Character   | Average Rating  |
@@ -60,6 +65,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Parks and Rec | Tom Haverford     |    5.7 |
 | Brooklyn 99 | Jake Peralta   |   6 |
 
+___
 
 #### Most Introverted
 
@@ -71,6 +77,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Pride and Prejudice | Mr. Darcy     |   89.1|
 | Game of Thrones | Brandon Stark   |  89 |
 
+___
 
 #### Most Hipster (as opposed to Basic)
 
@@ -82,6 +89,8 @@ I had a BLAST looking through this data. Here are some highlights.
 | Girls |  Jessa Johansson    |    13.7 |
 | Mean Girls |Janis Ian     |    14.1 |
 
+___
+
 #### Alpha
 
 | Fictional Work | Character   | Average Rating  |
@@ -92,6 +101,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Mean Girls | Regina George    |    6 |
 | The Lion King  | Mufasa      |    7 |
 
+___
 
 #### Beta 
 
@@ -102,6 +112,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Brooklyn 99| Charles Boyle     |    93.5 |
 | Star Wars | C-3PO   |    87.6 |
 
+___
 
 #### Bossy (as opposed to Meek) 
 
@@ -112,6 +123,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Arrested Development  | Lucille Bluth      |    66.7 |
 | Harry Potter | Dolores Umbridge    |    87.4 |
 
+___
 
 #### Master (as opposed to Apprentice) 
 
@@ -127,6 +139,8 @@ I had a BLAST looking through this data. Here are some highlights.
 
 <iframe title="The Office -Competence and Work Ethic " aria-label="chart" id="datawrapper-chart-pv8gS" src="https://datawrapper.dwcdn.net/pv8gS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+___
 
 
 <iframe title="Game of Thrones " aria-label="chart" id="datawrapper-chart-57F9i" src="https://datawrapper.dwcdn.net/57F9i/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="375"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
