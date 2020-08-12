@@ -3,6 +3,17 @@
 
 For my Final Project, I chose a fun dataset based on crowdsourced fictional character analysis that I found through Data is PLural. I had first heard of this through a quiz on openpsychometrics.org a few months back. You answer 30 questions about yourself and the results show you what fictional characters you are most like. The quiz can be found here: https://openpsychometrics.org/tests/characters/
 
+They give you your results, here are mine.
+
+![](https://media.journalism.berkeley.edu/upload/2020/08/1597209416df6bc1c.png) 
+
+Then ask you to analyze characters. Here's some examples. 
+
+![](https://media.journalism.berkeley.edu/upload/2020/08/15972091669a653d7.png)
+![](https://media.journalism.berkeley.edu/upload/2020/08/15972095043b8a9c7.jpg)
+![](https://media.journalism.berkeley.edu/upload/2020/08/15972095380bb7e71.jpg)
+
+
 
 
 [Here's a link to my data](https://drive.google.com/file/d/1TjTki1PXDLsQdKwqjRiLyo4X3-ioB6Xc/view?usp=sharing)
