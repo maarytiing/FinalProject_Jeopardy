@@ -27,8 +27,10 @@ The formulas I used were
 ```
 =VLOOKUP(I$1,'trait index'!A1:E235,2, false)
 ```
+I "asks my dataset questions" through multiple pivot tables. 
 
 I had a BLAST looking through this data. Here are some highlights. 
+
 
 #### Most Masculine 
 
@@ -57,6 +59,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Parks and Rec | Tom Haverford     |    5.7 |
 | Brooklyn 99 | Jake Peralta   |   6 |
 
+
 #### Most Introverted
 
 | Fictional Work | Character   | Average Rating  |
@@ -66,6 +69,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Harry Potter | Severus Snape     |    89.3 |
 | Pride and Prejudice | Mr. Darcy     |   89.1|
 | Game of Thrones | Brandon Stark   |  89 |
+
 
 #### Most Hipster (as opposed to Basic)
 
@@ -87,6 +91,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Mean Girls | Regina George    |    6 |
 | The Lion King  | Mufasa      |    7 |
 
+
 #### Beta 
 
 | Fictional Work | Character   | Average Rating  |
@@ -96,6 +101,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Brooklyn 99| Charles Boyle     |    93.5 |
 | Star Wars | C-3PO   |    87.6 |
 
+
 #### Bossy (as opposed to Meek) 
 
 | Fictional Work | Character   | Average Rating  |
@@ -104,6 +110,7 @@ I had a BLAST looking through this data. Here are some highlights.
 | Mean Girls  | Regina George   |   66.3 |
 | Arrested Development  | Lucille Bluth      |    66.7 |
 | Harry Potter | Dolores Umbridge    |    87.4 |
+
 
 #### Master (as opposed to Apprentice) 
 
