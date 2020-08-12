@@ -126,3 +126,7 @@ I had a BLAST looking through this data. Here are some highlights.
 
 <iframe title="The Office -Competence and Work Ethic " aria-label="chart" id="datawrapper-chart-pv8gS" src="https://datawrapper.dwcdn.net/pv8gS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<iframe title="Game of Thrones " aria-label="chart" id="datawrapper-chart-57F9i" src="https://datawrapper.dwcdn.net/57F9i/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="375"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
