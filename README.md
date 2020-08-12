@@ -1,5 +1,7 @@
 # Final Project for Mary Ting 
-## Open Psychometrics Fictional Characters Ratings
+### Open Psychometrics Fictional Characters Ratings
+
+For my Final Project, I chose a fun dataset based on crowdsourced fictional character analysis. I had first heard of this through a quiz on openpsychometrics.org a few months back. You answer 30 questions about yourself and the results show you what fictional characters you are most like. The quiz can be found here: https://openpsychometrics.org/tests/characters/
 
 [Here's a link to my data](https://drive.google.com/file/d/1TjTki1PXDLsQdKwqjRiLyo4X3-ioB6Xc/view?usp=sharing)
 
