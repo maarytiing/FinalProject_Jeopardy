@@ -100,17 +100,22 @@ I had a BLAST looking through this data. Here are some highlights.
 
 | Fictional Work | Character   | Average Rating  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+|Game of Thrones    | Cersei Lannister | 77.7|
+| Mean Girls  | Regina George   |   66.3 |
+| Arrested Development  | Lucille Bluth      |    66.7 |
+| Harry Potter | Dolores Umbridge    |    87.4 |
 
 #### Master (as opposed to Apprentice) 
 
 | Fictional Work | Character   | Average Rating  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Lord of the Rings    | Gandalf | 95.6 |
+| Prison Break  | Michael Scofield       |   95.5|
+| House, M.D. | Dr. Gregory House    |   95.5|
+| Parks and Rec| Ron Swanson   |   95.2|
+| Harry Potter | Albus Dumbledore   |  94.8|
+| NCIS | Leroy Jethro Gibbs  |   94.8|
+
+
 <iframe title="The Office -Competence and Work Ethic " aria-label="chart" id="datawrapper-chart-pv8gS" src="https://datawrapper.dwcdn.net/pv8gS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
